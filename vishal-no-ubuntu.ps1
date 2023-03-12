@@ -138,3 +138,4 @@ choco install -y lens
 
 
 Enable-UAC
+exit 0
