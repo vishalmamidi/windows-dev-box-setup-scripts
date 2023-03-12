@@ -132,6 +132,10 @@ choco install -y azure-cli
 Install-Module -Force Az
 choco install -y microsoftazurestorageexplorer
 choco install -y terraform
+choco install -y kubernetes-helm 
+choco install -y kubernetes-cli
+choco install -y lens
+
 
 Enable-UAC
 
